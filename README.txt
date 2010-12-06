@@ -2,6 +2,13 @@
  AndroidOperaLink - Android Opera Link Client
 ==============================================
 
+THIS LIBRARY IS OBSOLETE, YOU SHOULD BE USING
+
+https://github.com/operasoftware/JavaOperaLinkClient
+
+INSTEAD. IT HAS IMPROVEMENTS, MAVEN INTEGRATION, A NON-CONFUSING NAME
+AND GENERALLY SPEAKING MOAR COWBELL.
+
 
 Introduction
 ============
